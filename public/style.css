@@ -7,6 +7,26 @@ body, h1, h2, h3, a, p{
 }
 nav{
     font-weight: bold;
+    fill: purple;
+    background-color: green;
+
+
+}
+p {
+  color: green;
+}
+li {
+    float: left;
+    display: inline;
+    
+}
+a {
+  padding: 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 .main-text{
@@ -69,6 +89,7 @@ nav{
 }
 .bg-shadow{
     background: rgba(0,0,0,0.5);
+    background-color: white;
 }
 #vidtop-content {
 	top: 0;
